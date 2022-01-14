@@ -1,0 +1,5 @@
+HV11223340  Nguyen Van A        1990-11-20  Nam  9.5
+HV11223341  Nguyen Van B1       1990-11-21  Nu   9.5
+HV11223342  Nguyen Van C23      1990-11-22  Nam  9.5
+HV11223343  Nguyen Van D345     1990-11-23  Nu   1.0
+HV11223344  Nguyen Van KetThuc  1990-11-24  Nam  10.0

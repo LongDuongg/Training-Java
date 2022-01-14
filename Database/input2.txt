@@ -1,0 +1,27 @@
+HV11223340      
+HV11223341         
+HV11223342         
+HV11223343        
+HV11223344      
+Nguyen Van A
+Nguyen Van B1
+Nguyen Van C23
+Nguyen Van D345
+Nguyen Van KetThuc
+1990-11-20
+1990-11-21
+1990-11-22
+1990-11-23
+1990-11-24
+Nam
+Nu
+Nam
+Nu
+Nam
+9.5
+9.5
+9.5
+1.0
+10.0
+
+
